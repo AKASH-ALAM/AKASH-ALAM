@@ -1,7 +1,10 @@
 ## Hi there, I'm AKASH👋
-##### A competitive programmer and a passionate self-taught frontEnd web developer from Bangladesh.
+##### A Student, A Competitive Programmer and A frontEnd web developer.
 
-- 🌱 I’m currently learning linklist, Tree, Graph, Recursion, & more advanced topic.
+- 🌱 I’m currently learning Programming
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Try to Contribute more to Open Source projects
+- ⚡ Fun fact: I love to Traveling, Hang out and Photography 
 - 💬 Ask me about anything [here](https://facebook.com/Abhra.Akash)
 
 <!--- 
