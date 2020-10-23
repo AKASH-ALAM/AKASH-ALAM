@@ -23,5 +23,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats)
+<!--- GitHub Extra Pins
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akash-alam)](https://github.com/anuraghazra/github-readme-stats)
