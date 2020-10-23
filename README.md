@@ -1,4 +1,4 @@
-## Hi there, I'm [AKASH-ALAM!]
+## Hi there, I'm AKASH-ALAM
 ##### A competitive programmer and a passionate self-taught frontEnd web developer from Bangladesh.
 
 - 🌱 I’m currently learning linklist, Tree, Graph, Recursion, & more advanced topic.
