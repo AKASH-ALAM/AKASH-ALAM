@@ -58,9 +58,9 @@
 <br />
 
 ---
-[website]: https://github.com/akash-alam
-[twitter]: https://twitter.com/AKASH-ALAM1
-[youtube]: https://youtube.com/codeSTACKr
+[website]: https://github.com/AKASH-ALAM
+[twitter]: https://twitter.com/AKASH_ALAM1
+[youtube]: https://www.youtube.com/channel/UCP30CUiUYtvFZ8qxl0cmilQ
 [instagram]: https://instagram.com/mesbahul_
 [linkedin]: https://linkedin.com/in/akash-alam
 
