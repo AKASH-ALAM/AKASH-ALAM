@@ -1,4 +1,4 @@
-## Hi there, I'm AKASH-ALAM
+## Hi there, I'm AKASH wave
 ##### A competitive programmer and a passionate self-taught frontEnd web developer from Bangladesh.
 
 - 🌱 I’m currently learning linklist, Tree, Graph, Recursion, & more advanced topic.
@@ -29,3 +29,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
