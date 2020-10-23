@@ -21,20 +21,5 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AKASH-ALAM)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/AKASH-ALAM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.AKASH-ALAM.vercel.app/api?username=AKASH-ALAM&show_icons=true&include_all_commits=true&theme=radical" alt="AKASH-ALAM's github stats" />
-</a>
-<a href="https://github.com/AKASH-ALAM/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel`.app  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/?username=AKASH-ALAM&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/AKASH-ALAM/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/?username=AKASH-ALAM&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/AKASH-ALAM/AKASH-ALAM.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/?username=AKASH-ALAM&repo=anuraghazra.github.io&theme=radical" />
-</a>
