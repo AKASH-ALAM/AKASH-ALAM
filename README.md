@@ -26,15 +26,15 @@
   <img align="center" src="https://github-readme-stats.AKASH-ALAM.vercel.app/api?username=AKASH-ALAM&show_icons=true&include_all_commits=true&theme=radical" alt="AKASH-ALAM's github stats" />
 </a>
 <a href="https://github.com/AKASH-ALAM/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-ALAM&layout=compact&theme=radical" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel`.app  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/?username=AKASH-ALAM&layout=compact&theme=radical" />
 </a>
 
 <a href="https://github.com/AKASH-ALAM/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKASH-ALAM&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/?username=AKASH-ALAM&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/AKASH-ALAM/AKASH-ALAM.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKASH-ALAM&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/?username=AKASH-ALAM&repo=anuraghazra.github.io&theme=radical" />
 </a>
