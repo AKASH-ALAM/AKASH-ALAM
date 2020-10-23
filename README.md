@@ -23,5 +23,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats)
 
