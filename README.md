@@ -2,7 +2,7 @@
 ##### A competitive programmer and a passionate self-taught frontEnd web developer from Bangladesh.
 
 - 🌱 I’m currently learning linklist, Tree, Graph, Recursion, & more advanced topic.
-- 💬 Ask me about anything [here](https://facebook.com/Abhra.bhe.di)
+- 💬 Ask me about anything [here](https://facebook.com/Abhra.Akash)
 
 **Languages and Tools:**  
 
@@ -28,4 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akash-alam)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro)](https://github.com/anuraghazra/github-readme-stats)
