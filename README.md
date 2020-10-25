@@ -20,7 +20,7 @@
 <!--- GitHub Extra Pins
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Wakatime
+
 [![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
