@@ -22,22 +22,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Wakatime
+[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="I'm not in Spotify now!" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Wakatime
-[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
