@@ -14,14 +14,13 @@
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs&theme=radical)
 
 <!--- GitHub Extra Pins
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -38,7 +37,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="I'm not in Spotify now!" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Wakatime
-[![My wakatime's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
@@ -75,3 +74,5 @@
 [instagram]: https://instagram.com/mesbahul_
 [linkedin]: https://linkedin.com/in/akash-alam
 
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
