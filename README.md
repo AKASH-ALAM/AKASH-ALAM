@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Try to Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Traveling, Hang out and Photography 
-- 💬 Ask me about anything [here](https://facebook.com/Abhra.Akash)
+- 💬 Ask me about anything [here](https://facebook.com/AKASH.ALAM01/)
 
 <!--- 
   if you have forked this to use on your profile, 
