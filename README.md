@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Try to Contribute more to Open Source projects
+- 🥅 Goals: Try to Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Traveling, Hang out and Photography 
 - 💬 Ask me about anything [here](https://facebook.com/AKASH.ALAM01/)
 
