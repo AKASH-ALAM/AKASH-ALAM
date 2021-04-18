@@ -27,11 +27,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!---
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="I'm not in Spotify now!" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+ -->
 
 ### Connect with me:
 
