@@ -66,7 +66,7 @@
 [website]: https://github.com/AKASH-ALAM
 [twitter]: https://twitter.com/AKASH_ALAM1
 [youtube]: https://www.youtube.com/c/linuxhero
-[instagram]: https://instagram.com/mesbahul_
+[instagram]: https://www.instagram.com/ig_mizbah/
 [linkedin]: https://linkedin.com/in/akash-alam
 
 
