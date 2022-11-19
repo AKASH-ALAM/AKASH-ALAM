@@ -62,7 +62,7 @@
 <br />
 <p aligh = "middle">
 
-                                  ##### Show some Love by starring some of the repositories ❤️
+                                        Show some Love by starring some of the repositories ❤️
 
 </p>
 
