@@ -1,11 +1,13 @@
 ## Hi there, I'm AKASH👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Views&color=blueviolet&style=plastic" alt="akash-alam" /> </p>
 ##### A Student, A Competitive Programmer and A frontEnd web developer.
+
 
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Try to Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Traveling, Hang out and Photography 
-- 💬 Ask me about anything [here](https://facebook.com/AKASH.ALAM01/)
+- ⚡ Fun fact: I love to Traveling, watching Movie, Hang out and Photography 
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/akash-alam/)
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -15,7 +17,7 @@
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs&theme=transparent)
 
 <!--- GitHub Extra Pins
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -34,11 +36,11 @@
  -->
 
 ### Connect with me:
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg>
 
-[<img align="left" alt="github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linux_hero | YouTube" width="22px" color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="linux_hero | YouTube" width="22px" colour="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AKASH-ALAM1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AKASH-ALAM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AKASH-ALAM | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mesbahul_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -63,11 +65,10 @@
 <br />
 
 ---
-[website]: https://github.com/AKASH-ALAM
 [twitter]: https://twitter.com/AKASH_ALAM1
 [youtube]: https://www.youtube.com/c/linuxhero
 [instagram]: https://www.instagram.com/ig_mizbah/
-[linkedin]: https://linkedin.com/in/akash-alam
+[facebook]: https://www.facebook.com/AKASH.ALAM01/
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
