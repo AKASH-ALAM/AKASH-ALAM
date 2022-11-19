@@ -58,7 +58,7 @@
 <img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png"/>
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"/>
-<img align="left" alt="Bash" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919837.png"/>
+<img align="left" alt="Sublime" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919837.png"/>
 <img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
 <br/>
 <br/>
