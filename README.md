@@ -37,14 +37,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linux_hero | YouTube" width="22px" colour="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AKASH-ALAM1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AKASH-ALAM | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="mesbahul_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="linux_hero | YouTube" width="22px" colour="white" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+[<img align="left" alt="AKASH-ALAM1 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="AKASH-ALAM | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
+[<img align="left" alt="mesbahul_ | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="mesbahul_ | Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
+
 
 <br />
 
 ### Languages and Tools:
+
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -72,6 +75,7 @@
 [youtube]: https://www.youtube.com/c/linuxhero
 [instagram]: https://www.instagram.com/ig_mizbah/
 [facebook]: https://www.facebook.com/AKASH.ALAM01/
+[linkedin]: https://www.linkedin.com/in/akash-alam/
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
