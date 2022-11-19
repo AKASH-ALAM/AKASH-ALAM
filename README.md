@@ -1,12 +1,12 @@
 ## Hi there, I'm AKASH👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Views&color=blueviolet&style=plastic" alt="akash-alam" /> </p>
 ##### A Student, A Competitive Programmer and A frontEnd web developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Views&color=blue&style=plastic" alt="akash-alam" /> </p>
 
 
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Try to Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Traveling, watching Movie, Hang out and Photography 
+- ⚡ Fun fact: I love to Traveling, Watching Movie, Hang out and Photography 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/akash-alam/)
 
 <!--- 
@@ -23,10 +23,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ovro&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
@@ -36,7 +36,6 @@
  -->
 
 ### Connect with me:
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg>
 
 [<img align="left" alt="linux_hero | YouTube" width="22px" colour="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AKASH-ALAM1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
