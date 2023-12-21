@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Views&color=blue&style=plastic" alt="akash-alam" /> </p>
-[![wakatime](https://wakatime.com/badge/user/11b34376-5dc0-40c7-b121-1f57b3ba4e53.svg)](https://wakatime.com/@11b34376-5dc0-40c7-b121-1f57b3ba4e53)
+[![wakatime](https://wakatime.com/badge/user/11b34376-5dc0-40c7-b121-1f57b3ba4e53.svg)](https://wakatime.com/@Pnictogen)
 
 ## Hi there, I'm AKASH👋
 ##### A Student, A Competitive Programmer and A frontEnd web developer.
