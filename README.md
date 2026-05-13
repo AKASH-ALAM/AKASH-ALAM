@@ -17,18 +17,6 @@
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs&theme=transparent)
-
-<!--- GitHub Extra Pins
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!--[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pnictogen&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
---->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!---
 ### Spotify Playing 🎧
 
