@@ -20,11 +20,11 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** C++ • Java • PHP • JavaScript • Python
+**Languages:** • C • C++ • C# • Java • Python • JavaScript
 
-**Frontend:** HTML5 • CSS3 • React
+**Frontend:** HTML5 • CSS3 • React • Bootstrap
 
-**Backend & Databases:** SQL • MySQL • MongoDB
+**Backend & Databases:** • Asp.net Core MVC • SQL • MySQL • MongoDB
 
 **Tools & Platforms:** Git • GitHub • Visual Studio Code • Ubuntu • Linux
 
