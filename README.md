@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Profile%20Views&color=0066cc&style=flat-square" alt="Profile Views" />
 </p>
 
