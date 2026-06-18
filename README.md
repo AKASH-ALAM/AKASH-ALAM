@@ -18,18 +18,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:** C • C++ • C# • Java • Python • JavaScript
-
-**Frontend:** HTML5 • CSS3 • React • Bootstrap
-
-**Backend & Databases:** Asp.net Core MVC • SQL • MySQL • MongoDB
-
-**Tools & Platforms:** Git GitHub • Visual Studio Code • Ubuntu • Linux
-
----
-
 ## 📱 Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/linuxhero)
