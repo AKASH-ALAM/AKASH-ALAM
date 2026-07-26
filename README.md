@@ -18,6 +18,28 @@
 
 ---
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&theme=radical&hide_border=true" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=radical&hide_border=true" alt="Akash's Top Languages" />
+</p>
+
+---
+
+## 🎯 Open Source Contributions
+
+Here are some of the open-source projects I've contributed to:
+
+| Project | Contribution | Status |
+| :--- | :--- | :--- |
+| [**Repo-Name-1**]([https://github.com/link-to-repo](https://github.com/mr-sohel/SellWise))
+| [**Repo-Name-2**]([https://github.com/link-to-repo](https://github.com/mr-sohel/GNNSymptomChecker))
+
+*(Note: Update the links and descriptions above with your actual contributions)*
+
+---
+
 ## 📱 Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/linuxhero)
