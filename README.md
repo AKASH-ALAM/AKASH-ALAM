@@ -21,8 +21,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&theme=radical&hide_border=true" alt="Akash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=radical&hide_border=true" alt="Akash's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash-alam&show_icons=true&theme=radical&hide_border=true" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=radical&hide_border=true" alt="Akash's Top Languages" />
 </p>
 
 ---
