@@ -33,8 +33,8 @@ Here are some of the open-source projects I've contributed to:
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
-| [**Repo-Name-1**](https://github.com/mr-sohel/SellWise)
-| [**Repo-Name-2**](https://github.com/mr-sohel/GNNSymptomChecker)
+| [**Repo-Name-1**](https://github.com/mr-sohel/SellWise) | ASP.NET Core MVC architecture | `Merged` ✅ |
+| [**Repo-Name-2**](https://github.com/mr-sohel/GNNSymptomChecker) | Modern Interface, Improved XAI| `Merged` ✅ |
 
 *(Note: Update the links and descriptions above with your actual contributions)*
 
