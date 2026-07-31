@@ -4,7 +4,7 @@
 
 # Hi there, I'm AKASH 👋
 
-**Competitive Programmer | Full Stack Developer | Open Source Enthusiast**
+**Competitive Programmer | ICPC Regionalist (2X) | Specialist@Codeforces  | 3★@CodeChef | Full Stack Developer | Open Source Enthusiast**
 
 ---
 
