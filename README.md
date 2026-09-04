@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
-C#                     7 hrs 33 mins         >>>>>>>>>----------------   36.43 %
-Diagrams.net Diagram   4 hrs 30 mins         >>>>>--------------------   21.70 %
-CSHTML                 3 hrs 56 mins         >>>>>--------------------   18.95 %
-Image (svg)            1 hr 33 mins          >>-----------------------   07.48 %
-Markdown               1 hr 10 mins          >------------------------   05.66 %
+C#                     6 hrs 58 mins         >>>>>>>>-----------------   32.72 %
+Diagrams.net Diagram   4 hrs 30 mins         >>>>>--------------------   21.13 %
+CSHTML                 3 hrs 10 mins         >>>>---------------------   14.86 %
+Other                  1 hr 47 mins          >>-----------------------   08.42 %
+Image (svg)            1 hr 33 mins          >>-----------------------   07.29 %
 ```
 
 <!--END_SECTION:waka-->
