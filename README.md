@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2026 - To: 08 September 2026
+From: 02 September 2026 - To: 09 September 2026
 
-C#                     1 hr 55 mins          >>>>>>>>>>---------------   38.29 %
-Other                  1 hr 45 mins          >>>>>>>>>----------------   35.04 %
-Markdown               33 mins               >>>----------------------   11.12 %
-TeX                    29 mins               >>-----------------------   09.77 %
-Image (svg)            7 mins                >------------------------   02.50 %
+C#               2 hrs 37 mins         >>>>>>>>>>>>>------------   52.79 %
+Markdown         1 hr 17 mins          >>>>>>-------------------   25.88 %
+Other            1 hr                  >>>>>--------------------   20.27 %
+GitIgnore file   2 mins                -------------------------   00.76 %
+Text             0 secs                -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
