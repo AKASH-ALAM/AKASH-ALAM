@@ -1,6 +1,5 @@
 ## 📊 My GitHub Stats
 
----
 <!--START_SECTION:waka-->
 
 ```txt
