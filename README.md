@@ -1,9 +1,5 @@
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash-alam&show_icons=true&theme=radical&hide_border=true" alt="Akash's GitHub Stats" />
-</p>
-
 ---
 <!--START_SECTION:waka-->
 
