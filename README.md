@@ -1,5 +1,3 @@
-  <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Profile%20Views&color=0066cc&style=flat-square" alt="Profile Views" />
-
 ## 📊 My GitHub Stats
 
 <p align="center">
