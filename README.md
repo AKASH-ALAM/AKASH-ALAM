@@ -2,22 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Profile%20Views&color=0066cc&style=flat-square" alt="Profile Views" />
 </p>
 
-# Hi there, I'm AKASH 👋
-
-**Competitive Programmer | ICPC Regionalist (2X) | Specialist@Codeforces  | 3★@CodeChef | Full Stack Developer | Open Source Enthusiast**
-
----
-
-## About Me
-
-- 🎓 Student passionate about competitive programming and web development
-- 💻 Skilled in full-stack development with modern technologies
-- 🤝 Looking to collaborate on open-source projects and exciting initiatives
-- 🌍 Passionate about traveling, photography, and continuous learning
-- 📧 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/akash-alam/)
-
----
-
 ## 📊 My GitHub Stats
 
 <p align="center">
