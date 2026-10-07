@@ -26,13 +26,13 @@ XML Solution File   0 secs                -------------------------   00.00 %
 ## 🎯 Open Source Contributions
 
 Here are some of the open-source projects I've contributed to:
-
-| Project | Contribution | Status |
-| :--- | :--- | :--- |
-| [**Sell Wise**](https://github.com/mr-sohel/SellWise) | ASP.NET Core MVC architecture | `Merged` ✅ |
-| [**GNN Symptom Checker**](https://github.com/mr-sohel/GNNSymptomChecker) | Modern Interface, Improved XAI| `Merged` ✅ |
-| [**Autism Facial Expression Recognition**](https://github.com/mr-sohel/Autism-Facial-Expression-Recognition) | Preprocessing, Run the model| `Merged` ✅ |
-
+<p align="center">
+  | Project | Contribution | Status |
+  | :--- | :--- | :--- |
+  | [**Sell Wise**](https://github.com/mr-sohel/SellWise) | ASP.NET Core MVC architecture | `Merged` ✅ |
+  | [**GNN Symptom Checker**](https://github.com/mr-sohel/GNNSymptomChecker) | Modern Interface, Improved XAI| `Merged` ✅ |
+  | [**Autism Facial Expression Recognition**](https://github.com/mr-sohel/Autism-Facial-Expression-Recognition) | Preprocessing, Run the model| `Merged` ✅ |
+</p>
 
 *(Note: Update the links and descriptions above with your actual contributions)*
 
