@@ -25,8 +25,6 @@ Here are some of the open-source projects I've contributed to:
 | [**GNN Symptom Checker**](https://github.com/mr-sohel/GNNSymptomChecker) | Modern Interface, Improved XAI| `Merged` ✅ |
 | [**Autism Facial Expression Recognition**](https://github.com/mr-sohel/Autism-Facial-Expression-Recognition) | Preprocessing, Run the model| `Merged` ✅ |
 
-*(Note: Update the links and descriptions above with your actual contributions)*
-
 ---
 
 <p align="center">
